@@ -321,7 +321,7 @@ const ParentDashboard = () => {
             <div className="flex items-center justify-between mb-6">
               <div className="flex items-center">
                 <MapPin className="w-8 h-8 text-green-500" />
-                <h2 className="text-2xl font-bold ml-4">Child's Location</h2>
+                <h2 className="text-2xl font-bold ml-4">Needer's Location</h2>
               </div>
             </div>
             <div className="h-80 rounded-xl overflow-hidden">
