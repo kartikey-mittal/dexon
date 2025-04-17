@@ -259,7 +259,7 @@ const ChildDashboard = () => {
 
         {activeTab === 'messages' && (
           <div className="bg-white rounded-2xl p-8 shadow-lg">
-            <h2 className="text-2xl font-semibold mb-6">Messages from Parent</h2>
+            <h2 className="text-2xl font-semibold mb-6">Messages from Guardian</h2>
             <div className="space-y-4 max-h-[500px] overflow-y-auto mb-6">
               {messages.map((message) => (
                 <div
