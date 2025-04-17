@@ -1,4 +1,5 @@
 ## ✨ What is DEXON?
+🔗 **Live Demo:** [https://dexon.vercel.app](https://dexon.vercel.app)
 
 ![DEXON Impact](https://i.postimg.cc/MT7N6TyK/Screenshot-2025-04-17-at-4-42-40-PM.png)
 
