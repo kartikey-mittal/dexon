@@ -1,67 +1,107 @@
-# DEXON: Real-Time Safety for Every Child
+## ✨ What is DEXON?
 
-DEXON is an innovative platform designed to ensure real-time safety and emotional well-being for needer's through AI-powered monitoring and instant parental engagement.
+![DEXON Impact](https://i.postimg.cc/MT7N6TyK/Screenshot-2025-04-17-at-4-42-40-PM.png)
 
----
 
-## 🌟 Overview
-
-Verbal abuse affects 36% of children globally, often going unnoticed even in developed countries. DEXON addresses this silent epidemic by bridging the communication gap between needer's and guardian while offering emotional support and safety tools.
+> **DEXON** is a next-gen safety and mental wellness platform powered by AI and NLP that detects distress in real time, empowers children (*Needer's*), and keeps guardians connected emotionally and practically.
 
 ---
 
-## 🚨 The Problem
+## ⚠️ Why DEXON?
 
-- **Prevalence of Verbal Abuse**: 76.5% of verbal abuse cases come from parents—those meant to protect.
-- **Mental Health Crisis**: Leads to depression, anxiety, self-harm, and long-term brain damage. Costs exceed $300 billion annually.
-- **Communication Barriers**: Children rarely voice their distress; parents remain unaware.
-- **Emotional Disconnection**: Teens often feel misunderstood and isolated.
+💔 **36% of children globally suffer from verbal abuse.**  
+😢 Most never speak up.  
+💡 *DEXON listens — even when they can’t speak.*
 
----
+### 📉 The Crisis
 
-## 🛡️ Our Solution
+- **76.5%** of verbal abuse cases come from within the home.
+- Long-term mental health costs exceed **$300 billion/year**.
+- Emotional disconnect between guardians and children continues to grow.
 
-DEXON provides a safe, AI-enhanced platform for needer's and actionable tools for parents.
-
-### 👧 Needer's Dashboard
-
-- **Press-to-Speak Button**: For expressing fear or discomfort.
-- **AI-Powered Emotion Detection**: Analyzes tone, words, and emotion in real time.
-- **SOS Button**: Sends immediate location-based alerts with comforting messages.
-
-### 👨‍👩‍👧 Guardian's Dashboard
-
-- **Live Mood Tracking**: Emotional trends visualized through mood graphs.
-- **Instant Alerts**: Get notified when distress is detected.
-- **Positive Messaging Panel**: Send uplifting messages to maintain emotional bonds.
-- **Real-Time Location Tracking**: Uses OpenStreetMap for emergency navigation.
+[![DEXON Impact](https://i.postimg.cc/zBqnKcYF/Negative-outcomes-more-prevalent-in-adults-verbally-abused-as-children.png)](https://i.postimg.cc/zBqnKcYF/Negative-outcomes-more-prevalent-in-adults-verbally-abused-as-children.png)
 
 ---
 
-## 🔭 Future Scope
+## 🧠 How DEXON Works
 
-1. School-based integration  
-2. Mental health resource partnerships  
-3. Multilingual support for global access  
-4. Compatibility with wearable devices  
-5. Government and NGO collaborations  
-6. Enhanced AI & ML models  
-7. Anonymous abuse reporting features  
-8. International expansion strategies
+DEXON uses real-time:
 
----
+- 🗣️ **Speech Recognition**  
+- 💬 **Sentiment Analysis**  
+- 🧠 **Emotion Tracking**
 
-## 💬 Get Involved
-
-Let’s work together to build a safer, emotionally connected world for children. Whether you’re a developer, parent, educator, or policymaker, your role matters.
+These work together to detect signs of emotional distress, allowing the platform to empower children and notify guardians instantly — creating a real-time safety net.
 
 ---
 
-## 📫 Contact
+## 👧 Needer’s Dashboard
 
-For collaborations or queries, reach out to the project team at:  
-📧 **[shiva@gmail.com]**
+![Child Dashboard](https://i.postimg.cc/WzHf1Jfr/child-dashboard.png)
+
+- 🎤 **Press-to-Speak**: Voice discomfort or fear effortlessly.
+- 🧠 **AI Emotion Detection**: Monitors tone, speech, and emotional changes.
+- 🆘 **SOS Button**: Sends urgent location-based alerts and supportive messages.
+- 💬 **Auto-Generated Mood Journals**: Tracks mental health over time through daily emotional summaries.
 
 ---
 
-> Together, let's make real-time safety a reality for every child.
+## 👨‍👩‍👧 Guardian’s Dashboard
+
+![Parent Dashboard](https://i.postimg.cc/zBpTjFJZ/parent-dashboard.png)
+
+### 📊 Live Mood Trends  
+Track emotional patterns with visual graphs.  
+![Emotion Trends](https://i.postimg.cc/Bv95Qvhy/emotion-trend.png)
+
+### 🚨 Real-Time Alerts  
+Receive immediate notifications when distress is detected.  
+![Recent Alert](https://i.postimg.cc/FKyyfQ8K/recent-alert.png)
+
+### 🔔 Live Notification Feed  
+Stay updated with every emotional shift.  
+![Notification Feed](https://i.postimg.cc/J4FcvxjR/live-notification-feed.png)
+
+### ❤️ Positive Messaging Panel  
+Send words of comfort and love directly from the dashboard.
+
+### 📍 Location Tracking  
+Integrated OpenStreetMap for quick emergency navigation.
+
+---
+
+## 🌱 Future Scope
+
+> We're just getting started. Here’s what’s ahead:
+
+- 🏫 Integration with school platforms
+- 🤝 Collaborations with NGOs and government bodies
+- 🌐 Full multilingual support
+- ⌚ Compatibility with smart wearable devices
+- 🧠 Smarter, more adaptive AI/ML emotion models
+- 🕵️ Anonymous abuse reporting system
+- 🌍 Global scaling and localization strategies
+
+---
+
+## 🙌 Join the Movement
+
+Whether you're a:
+
+- 🧑‍💻 Developer  
+- 👩‍🏫 Educator  
+- 🧠 Mental Health Advocate  
+- 👨‍👩‍👧 Parent or Guardian  
+
+**Your voice and skills matter. Help us shape a safer, emotionally connected world.**
+
+---
+
+## 📬 Contact
+
+**Team Codezila**
+
+---
+
+> *Real-time safety isn’t a feature. It’s a responsibility.*  
+> **DEXON — Because feelings aren’t optional.**
